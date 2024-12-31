@@ -1,6 +1,10 @@
    {
     "name": "Scribbles by Sahil",
     "short_name": "Scribbles",
+   "start_url": "/",
+  "display": "standalone",
+  "background_color": "#efb020",  // Set a background color for the splash screen
+  "theme_color": "#17447d",      // Matches the toolbar color
     "icons": [
         {
             "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnk0wktcskcVp-lfynXlyFx3jGwZnxNRul8ZsmZFFm-V76ZvChoq4363GhWaRMmLKkAkz97q9ruzFGvavWMn_jw1YXSx0ZcjFFE9EN2C3UJ_RcRjNhbdUg9k8yCUQwY_Kaai2T4c_lHNQ1Nr5NghfTtQjyXEF1Gr7kZzt71I0TySXO7b4iIc3ZqzMaJKY/s16000/android-chrome-192x192.png",
