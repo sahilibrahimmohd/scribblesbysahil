@@ -1,7 +1,6 @@
    {
     "name": "Scribbles by Sahil",
     "short_name": "Scribbles",
-   "start_url": "/",
   "display": "standalone",
   "background_color": "#efb020",  // Set a background color for the splash screen
   "theme_color": "#17447d",      // Matches the toolbar color
