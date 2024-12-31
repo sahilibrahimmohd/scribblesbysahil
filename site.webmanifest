@@ -1,7 +1,11 @@
    {
-    "name": "Scribbles by Sahil",
+   "name": "Scribbles by Sahil",
     "short_name": "Scribbles",
-  "display": "standalone",
+    "start_url": "https://scribblesbysahil.blogspot.com",
+    "display": "standalone",
+    "theme_color": "#17447d",
+    "background_color": "#efb020",
+    "prefer_related_applications": false,
     "icons": [
         {
             "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnk0wktcskcVp-lfynXlyFx3jGwZnxNRul8ZsmZFFm-V76ZvChoq4363GhWaRMmLKkAkz97q9ruzFGvavWMn_jw1YXSx0ZcjFFE9EN2C3UJ_RcRjNhbdUg9k8yCUQwY_Kaai2T4c_lHNQ1Nr5NghfTtQjyXEF1Gr7kZzt71I0TySXO7b4iIc3ZqzMaJKY/s16000/android-chrome-192x192.png",
@@ -16,9 +20,5 @@
             "purpose": "any maskable"
         }
     ],
-    "theme_color": "#17447d",
-    "background_color": "#efb020",
-    "display": "standalone",
-    "prefer_related_applications": false,
-  "start_url": "https://scribblesbysahil.blogspot.com"
+    
 }
