@@ -4,7 +4,7 @@
     "start_url": "https://scribblesbysahil.blogspot.com",
     "display": "standalone",
     "theme_color": "#000000",
-    "background_color": "#00000000",
+    "background_color": "#000000",
     "prefer_related_applications": false,
     "icons": [
         {
